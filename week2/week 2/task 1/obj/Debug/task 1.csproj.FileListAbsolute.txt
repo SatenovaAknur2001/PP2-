@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\pp2\week3\week 2\task 1\bin\Debug\task 1.exe.config
+C:\Users\User\Desktop\pp2\week3\week 2\task 1\bin\Debug\task 1.exe
+C:\Users\User\Desktop\pp2\week3\week 2\task 1\bin\Debug\task 1.pdb
+C:\Users\User\Desktop\pp2\week3\week 2\task 1\obj\Debug\task 1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\pp2\week3\week 2\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\pp2\week3\week 2\task 1\obj\Debug\task 1.exe
+C:\Users\User\Desktop\pp2\week3\week 2\task 1\obj\Debug\task 1.pdb
